@@ -1,0 +1,253 @@
+Filename,Constructive method, Initial Cost, Purterbative Method, Improved Cost, Reduced Cost , Percentage 
+a280.tsp,Nearest Neighbour,3148.11, 2-opt,2803.26,344.845,10.954
+a280.tsp,Nearest Neighbour,3148.11, Node Shift,2887.07,261.043,8.29206
+a280.tsp,Nearest Neighbour,3148.11, Node Swap,3107.11,41.0029,1.30246
+a280.tsp,Cheapest Insertion,3141.66, 2-opt,2888.25,253.409,8.06609
+a280.tsp,Cheapest Insertion,3141.66, Node Shift,2804.87,336.793,10.7202
+a280.tsp,Cheapest Insertion,3141.66, Node Swap,3128.79,12.868,0.409591
+a280.tsp,Farthest Insertion,2957.49, 2-opt,2858.27,99.2201,3.35488
+a280.tsp,Farthest Insertion,2957.49, Node Shift,2860.5,96.9907,3.2795
+a280.tsp,Farthest Insertion,2957.49, Node Swap,2928.41,29.0753,0.983108
+a280.tsp,Random Insertion,3067.87, 2-opt,2993.15,74.7188,2.43552
+a280.tsp,Random Insertion,3067.87, Node Shift,2917.56,150.316,4.89968
+a280.tsp,Random Insertion,3067.87, Node Swap,3053.3,14.5717,0.474978
+berlin52.tsp,Nearest Neighbour,8980.92, 2-opt,7969.14,1011.78,11.2659
+berlin52.tsp,Nearest Neighbour,8980.92, Node Shift,8221.69,759.228,8.45379
+berlin52.tsp,Nearest Neighbour,8980.92, Node Swap,8850.83,130.084,1.44845
+berlin52.tsp,Cheapest Insertion,9050.69, 2-opt,8659.73,390.964,4.31971
+berlin52.tsp,Cheapest Insertion,9050.69, Node Shift,8457.5,593.196,6.55415
+berlin52.tsp,Cheapest Insertion,9050.69, Node Swap,9000.6,50.0935,0.553477
+berlin52.tsp,Farthest Insertion,8308.6, 2-opt,8196.16,112.444,1.35335
+berlin52.tsp,Farthest Insertion,8308.6, Node Shift,8055.65,252.957,3.04452
+berlin52.tsp,Farthest Insertion,8308.6, Node Swap,8308.6,0,0
+berlin52.tsp,Random Insertion,8277.98, 2-opt,8270.48,7.49627,0.0905568
+berlin52.tsp,Random Insertion,8277.98, Node Shift,8231.21,46.7721,0.565018
+berlin52.tsp,Random Insertion,8277.98, Node Swap,8277.98,0,0
+bier127.tsp,Nearest Neighbour,135752, 2-opt,122112,13639.8,10.0476
+bier127.tsp,Nearest Neighbour,135752, Node Shift,123860,11892.1,8.76017
+bier127.tsp,Nearest Neighbour,135752, Node Swap,129668,6084.01,4.48171
+bier127.tsp,Cheapest Insertion,139192, 2-opt,136615,2577.42,1.8517
+bier127.tsp,Cheapest Insertion,139192, Node Shift,133177,6014.74,4.32118
+bier127.tsp,Cheapest Insertion,139192, Node Swap,138406,785.924,0.564633
+bier127.tsp,Farthest Insertion,129734, 2-opt,128971,763.004,0.588131
+bier127.tsp,Farthest Insertion,129734, Node Shift,127613,2120.97,1.63487
+bier127.tsp,Farthest Insertion,129734, Node Swap,129734,0,0
+bier127.tsp,Random Insertion,136487, 2-opt,129622,6864.89,5.0297
+bier127.tsp,Random Insertion,136487, Node Shift,130118,6369.19,4.66651
+bier127.tsp,Random Insertion,136487, Node Swap,134005,2482.66,1.81897
+ch130.tsp,Nearest Neighbour,7575.29, 2-opt,6676.93,898.358,11.8591
+ch130.tsp,Nearest Neighbour,7575.29, Node Shift,6886.21,689.078,9.09639
+ch130.tsp,Nearest Neighbour,7575.29, Node Swap,7482.09,93.1981,1.23029
+ch130.tsp,Cheapest Insertion,7279.21, 2-opt,6800.27,478.939,6.57955
+ch130.tsp,Cheapest Insertion,7279.21, Node Shift,6566.78,712.432,9.78722
+ch130.tsp,Cheapest Insertion,7279.21, Node Swap,7041.34,237.868,3.26777
+ch130.tsp,Farthest Insertion,6493.75, 2-opt,6485.6,8.14912,0.125492
+ch130.tsp,Farthest Insertion,6493.75, Node Shift,6447.78,45.965,0.707835
+ch130.tsp,Farthest Insertion,6493.75, Node Swap,6490.04,3.707,0.0570856
+ch130.tsp,Random Insertion,6957.23, 2-opt,6499.55,457.671,6.57836
+ch130.tsp,Random Insertion,6957.23, Node Shift,6615.48,341.741,4.91204
+ch130.tsp,Random Insertion,6957.23, Node Swap,6937.22,20.0037,0.287525
+ch150.tsp,Nearest Neighbour,8194.61, 2-opt,6837.25,1357.36,16.5641
+ch150.tsp,Nearest Neighbour,8194.61, Node Shift,7330.64,863.976,10.5432
+ch150.tsp,Nearest Neighbour,8194.61, Node Swap,8105.85,88.7639,1.0832
+ch150.tsp,Cheapest Insertion,7792.73, 2-opt,7053.05,739.677,9.49189
+ch150.tsp,Cheapest Insertion,7792.73, Node Shift,6823.27,969.456,12.4405
+ch150.tsp,Cheapest Insertion,7792.73, Node Swap,7647.54,145.188,1.86312
+ch150.tsp,Farthest Insertion,7212.42, 2-opt,7150.48,61.9403,0.858801
+ch150.tsp,Farthest Insertion,7212.42, Node Shift,6941.94,270.482,3.75022
+ch150.tsp,Farthest Insertion,7212.42, Node Swap,7208.31,4.10602,0.0569298
+ch150.tsp,Random Insertion,7110.16, 2-opt,6958.94,151.219,2.1268
+ch150.tsp,Random Insertion,7110.16, Node Shift,6920.03,190.135,2.67413
+ch150.tsp,Random Insertion,7110.16, Node Swap,7095.61,14.5482,0.204611
+eil101.tsp,Nearest Neighbour,825.242, 2-opt,671.399,153.843,18.6422
+eil101.tsp,Nearest Neighbour,825.242, Node Shift,679.62,145.622,17.6459
+eil101.tsp,Nearest Neighbour,825.242, Node Swap,787.16,38.0824,4.6147
+eil101.tsp,Cheapest Insertion,709.469, 2-opt,693.383,16.0855,2.26726
+eil101.tsp,Cheapest Insertion,709.469, Node Shift,679.241,30.228,4.26064
+eil101.tsp,Cheapest Insertion,709.469, Node Swap,709.469,0,0
+eil101.tsp,Farthest Insertion,686.735, 2-opt,684.131,2.60385,0.379164
+eil101.tsp,Farthest Insertion,686.735, Node Shift,671.753,14.982,2.18163
+eil101.tsp,Farthest Insertion,686.735, Node Swap,686.735,0,0
+eil101.tsp,Random Insertion,681.5, 2-opt,681.015,0.485193,0.0711949
+eil101.tsp,Random Insertion,681.5, Node Shift,668.585,12.9158,1.8952
+eil101.tsp,Random Insertion,681.5, Node Swap,681.5,0,0
+eil51.tsp,Nearest Neighbour,513.61, 2-opt,442.299,71.3114,13.8844
+eil51.tsp,Nearest Neighbour,513.61, Node Shift,466.276,47.3341,9.21596
+eil51.tsp,Nearest Neighbour,513.61, Node Swap,488.003,25.6073,4.98574
+eil51.tsp,Cheapest Insertion,481.609, 2-opt,472.984,8.62497,1.79087
+eil51.tsp,Cheapest Insertion,481.609, Node Shift,442.586,39.0233,8.10269
+eil51.tsp,Cheapest Insertion,481.609, Node Swap,475.098,6.51123,1.35197
+eil51.tsp,Farthest Insertion,470.294, 2-opt,458.312,11.9823,2.54782
+eil51.tsp,Farthest Insertion,470.294, Node Shift,446.249,24.0458,5.11293
+eil51.tsp,Farthest Insertion,470.294, Node Swap,458.312,11.9823,2.54782
+eil51.tsp,Random Insertion,454.095, 2-opt,454.095,0,0
+eil51.tsp,Random Insertion,454.095, Node Shift,448.406,5.68872,1.25276
+eil51.tsp,Random Insertion,454.095, Node Swap,454.095,0,0
+eil76.tsp,Nearest Neighbour,711.993, 2-opt,576.273,135.72,19.062
+eil76.tsp,Nearest Neighbour,711.993, Node Shift,613.589,98.404,13.8209
+eil76.tsp,Nearest Neighbour,711.993, Node Swap,638.281,73.7119,10.3529
+eil76.tsp,Cheapest Insertion,618.462, 2-opt,588.832,29.6298,4.79089
+eil76.tsp,Cheapest Insertion,618.462, Node Shift,570.625,47.837,7.73484
+eil76.tsp,Cheapest Insertion,618.462, Node Swap,615.117,3.34485,0.540835
+eil76.tsp,Farthest Insertion,585.667, 2-opt,584.441,1.22579,0.209298
+eil76.tsp,Farthest Insertion,585.667, Node Shift,573.122,12.5449,2.14198
+eil76.tsp,Farthest Insertion,585.667, Node Swap,585.121,0.546507,0.0933136
+eil76.tsp,Random Insertion,585.743, 2-opt,582.94,2.80255,0.47846
+eil76.tsp,Random Insertion,585.743, Node Shift,577.183,8.55961,1.46133
+eil76.tsp,Random Insertion,585.743, Node Swap,585.743,0,0
+kroA100.tsp,Nearest Neighbour,26856.4, 2-opt,22496.6,4359.76,16.2336
+kroA100.tsp,Nearest Neighbour,26856.4, Node Shift,24761.1,2095.32,7.80195
+kroA100.tsp,Nearest Neighbour,26856.4, Node Swap,24786.7,2069.71,7.70658
+kroA100.tsp,Cheapest Insertion,25232, 2-opt,24219.3,1012.69,4.01353
+kroA100.tsp,Cheapest Insertion,25232, Node Shift,23927.4,1304.6,5.17041
+kroA100.tsp,Cheapest Insertion,25232, Node Swap,24790.5,441.49,1.74972
+kroA100.tsp,Farthest Insertion,23358.3, 2-opt,23026.7,331.634,1.41977
+kroA100.tsp,Farthest Insertion,23358.3, Node Shift,22595.3,762.947,3.26628
+kroA100.tsp,Farthest Insertion,23358.3, Node Swap,23358.3,0,0
+kroA100.tsp,Random Insertion,22587.7, 2-opt,22138.1,449.656,1.99071
+kroA100.tsp,Random Insertion,22587.7, Node Shift,22178.5,409.224,1.81171
+kroA100.tsp,Random Insertion,22587.7, Node Swap,22241.8,345.926,1.53148
+kroB100.tsp,Nearest Neighbour,29155, 2-opt,22663.3,6491.77,22.2664
+kroB100.tsp,Nearest Neighbour,29155, Node Shift,24863.4,4291.61,14.72
+kroB100.tsp,Nearest Neighbour,29155, Node Swap,28760.5,394.527,1.3532
+kroB100.tsp,Cheapest Insertion,25259.9, 2-opt,23865.1,1394.77,5.52167
+kroB100.tsp,Cheapest Insertion,25259.9, Node Shift,24085.4,1174.55,4.64985
+kroB100.tsp,Cheapest Insertion,25259.9, Node Swap,25187.3,72.573,0.287305
+kroB100.tsp,Farthest Insertion,23222.1, 2-opt,23135.7,86.4,0.37206
+kroB100.tsp,Farthest Insertion,23222.1, Node Shift,22796.7,425.349,1.83166
+kroB100.tsp,Farthest Insertion,23222.1, Node Swap,23222.1,0,0
+kroB100.tsp,Random Insertion,23759.5, 2-opt,23355,404.561,1.70273
+kroB100.tsp,Random Insertion,23759.5, Node Shift,23108.4,651.179,2.74071
+kroB100.tsp,Random Insertion,23759.5, Node Swap,23759.5,0,0
+kroC100.tsp,Nearest Neighbour,26327.4, 2-opt,22130.7,4196.62,15.9401
+kroC100.tsp,Nearest Neighbour,26327.4, Node Shift,24059.5,2267.88,8.61417
+kroC100.tsp,Nearest Neighbour,26327.4, Node Swap,26216.8,110.555,0.419926
+kroC100.tsp,Cheapest Insertion,25545.9, 2-opt,24802.7,743.237,2.90942
+kroC100.tsp,Cheapest Insertion,25545.9, Node Shift,23239.5,2306.36,9.02831
+kroC100.tsp,Cheapest Insertion,25545.9, Node Swap,25542.1,3.77451,0.0147754
+kroC100.tsp,Farthest Insertion,21698.8, 2-opt,21510.2,188.636,0.869338
+kroC100.tsp,Farthest Insertion,21698.8, Node Shift,21440.8,258.05,1.18924
+kroC100.tsp,Farthest Insertion,21698.8, Node Swap,21698.8,0,0
+kroC100.tsp,Random Insertion,22927.8, 2-opt,22413.4,514.382,2.24349
+kroC100.tsp,Random Insertion,22927.8, Node Shift,21862.8,1064.95,4.64479
+kroC100.tsp,Random Insertion,22927.8, Node Swap,22927.8,0,0
+kroD100.tsp,Nearest Neighbour,26950.5, 2-opt,22777.2,4173.27,15.485
+kroD100.tsp,Nearest Neighbour,26950.5, Node Shift,24306.3,2644.21,9.81136
+kroD100.tsp,Nearest Neighbour,26950.5, Node Swap,26702.6,247.875,0.919744
+kroD100.tsp,Cheapest Insertion,24949.7, 2-opt,23620.1,1329.58,5.32906
+kroD100.tsp,Cheapest Insertion,24949.7, Node Shift,22964.2,1985.48,7.95792
+kroD100.tsp,Cheapest Insertion,24949.7, Node Swap,24809,140.68,0.563855
+kroD100.tsp,Farthest Insertion,22036.2, 2-opt,21774.9,261.322,1.18587
+kroD100.tsp,Farthest Insertion,22036.2, Node Shift,21753.1,283.12,1.28479
+kroD100.tsp,Farthest Insertion,22036.2, Node Swap,21935.4,100.785,0.457359
+kroD100.tsp,Random Insertion,22661.5, 2-opt,21935.9,725.621,3.202
+kroD100.tsp,Random Insertion,22661.5, Node Shift,21961,700.493,3.09111
+kroD100.tsp,Random Insertion,22661.5, Node Swap,22519.7,141.831,0.625869
+kroE100.tsp,Nearest Neighbour,27587.2, 2-opt,23189.4,4397.8,15.9415
+kroE100.tsp,Nearest Neighbour,27587.2, Node Shift,25774.1,1813.13,6.57236
+kroE100.tsp,Nearest Neighbour,27587.2, Node Swap,26582.7,1004.45,3.641
+kroE100.tsp,Cheapest Insertion,25582.3, 2-opt,25008.4,573.899,2.24334
+kroE100.tsp,Cheapest Insertion,25582.3, Node Shift,24034.3,1548.06,6.05127
+kroE100.tsp,Cheapest Insertion,25582.3, Node Swap,25547.6,34.7868,0.13598
+kroE100.tsp,Farthest Insertion,23517, 2-opt,22764.8,752.164,3.19839
+kroE100.tsp,Farthest Insertion,23517, Node Shift,22530.1,986.849,4.19633
+kroE100.tsp,Farthest Insertion,23517, Node Swap,23503.4,13.5971,0.057818
+kroE100.tsp,Random Insertion,24154.7, 2-opt,23404.4,750.331,3.10635
+kroE100.tsp,Random Insertion,24154.7, Node Shift,22982.9,1171.86,4.85146
+kroE100.tsp,Random Insertion,24154.7, Node Swap,24144.4,10.3591,0.0428864
+lin105.tsp,Nearest Neighbour,20362.8, 2-opt,15605.5,4757.26,23.3626
+lin105.tsp,Nearest Neighbour,20362.8, Node Shift,17471,2891.77,14.2013
+lin105.tsp,Nearest Neighbour,20362.8, Node Swap,20019.6,343.185,1.68536
+lin105.tsp,Cheapest Insertion,16934.6, 2-opt,16168.2,766.405,4.52567
+lin105.tsp,Cheapest Insertion,16934.6, Node Shift,15887.2,1047.41,6.18502
+lin105.tsp,Cheapest Insertion,16934.6, Node Swap,16866.7,67.9163,0.40105
+lin105.tsp,Farthest Insertion,15372.4, 2-opt,15272.4,100.016,0.65062
+lin105.tsp,Farthest Insertion,15372.4, Node Shift,15157.2,215.217,1.40002
+lin105.tsp,Farthest Insertion,15372.4, Node Swap,15372.4,0,0
+lin105.tsp,Random Insertion,15510.9, 2-opt,15419.9,91.0329,0.586895
+lin105.tsp,Random Insertion,15510.9, Node Shift,15353.2,157.71,1.01677
+lin105.tsp,Random Insertion,15510.9, Node Swap,15510.9,0,0
+lin318.tsp,Nearest Neighbour,54033.6, 2-opt,44751.3,9282.32,17.1788
+lin318.tsp,Nearest Neighbour,54033.6, Node Shift,49372.1,4661.44,8.62694
+lin318.tsp,Nearest Neighbour,54033.6, Node Swap,53389,644.564,1.1929
+lin318.tsp,Cheapest Insertion,49454.8, 2-opt,45351.1,4103.71,8.29789
+lin318.tsp,Cheapest Insertion,49454.8, Node Shift,46127.1,3327.73,6.72882
+lin318.tsp,Cheapest Insertion,49454.8, Node Swap,49230.1,224.671,0.454295
+lin318.tsp,Farthest Insertion,45929.9, 2-opt,45096,833.961,1.81572
+lin318.tsp,Farthest Insertion,45929.9, Node Shift,44949.4,980.598,2.13499
+lin318.tsp,Farthest Insertion,45929.9, Node Swap,45690.1,239.835,0.522175
+lin318.tsp,Random Insertion,46772.6, 2-opt,46033.3,739.337,1.5807
+lin318.tsp,Random Insertion,46772.6, Node Shift,46085.8,686.836,1.46846
+lin318.tsp,Random Insertion,46772.6, Node Swap,46763.1,9.52573,0.020366
+pr124.tsp,Nearest Neighbour,69299.4, 2-opt,60304,8995.39,12.9805
+pr124.tsp,Nearest Neighbour,69299.4, Node Shift,64381.9,4917.48,7.096
+pr124.tsp,Nearest Neighbour,69299.4, Node Swap,66872.5,2426.96,3.50213
+pr124.tsp,Cheapest Insertion,65318.2, 2-opt,62902.3,2415.92,3.6987
+pr124.tsp,Cheapest Insertion,65318.2, Node Shift,61832.6,3485.64,5.3364
+pr124.tsp,Cheapest Insertion,65318.2, Node Swap,64533.1,785.062,1.2019
+pr124.tsp,Farthest Insertion,66592.9, 2-opt,65845.8,747.096,1.12189
+pr124.tsp,Farthest Insertion,66592.9, Node Shift,65516.7,1076.21,1.61611
+pr124.tsp,Farthest Insertion,66592.9, Node Swap,66445.8,147.096,0.220889
+pr124.tsp,Random Insertion,65762.5, 2-opt,61661.5,4101.05,6.23615
+pr124.tsp,Random Insertion,65762.5, Node Shift,64070.5,1692.08,2.57302
+pr124.tsp,Random Insertion,65762.5, Node Swap,64995.9,766.66,1.1658
+pr144.tsp,Nearest Neighbour,61650.7, 2-opt,61243.8,406.915,0.660033
+pr144.tsp,Nearest Neighbour,61650.7, Node Shift,61012.9,637.862,1.03464
+pr144.tsp,Nearest Neighbour,61650.7, Node Swap,61650.7,0,0
+pr144.tsp,Cheapest Insertion,73033.1, 2-opt,60323.8,12709.3,17.4021
+pr144.tsp,Cheapest Insertion,73033.1, Node Shift,71787.8,1245.29,1.7051
+pr144.tsp,Cheapest Insertion,73033.1, Node Swap,72562.9,470.273,0.643917
+pr144.tsp,Farthest Insertion,61972.3, 2-opt,61545,427.291,0.689487
+pr144.tsp,Farthest Insertion,61972.3, Node Shift,61972.3,0,0
+pr144.tsp,Farthest Insertion,61972.3, Node Swap,61972.3,0,0
+pr144.tsp,Random Insertion,64174.5, 2-opt,60040.2,4134.3,6.44228
+pr144.tsp,Random Insertion,64174.5, Node Shift,63664.1,510.441,0.795396
+pr144.tsp,Random Insertion,64174.5, Node Swap,64174.5,0,0
+pr76.tsp,Nearest Neighbour,153462, 2-opt,110715,42746.5,27.8548
+pr76.tsp,Nearest Neighbour,153462, Node Shift,114890,38572.4,25.1348
+pr76.tsp,Nearest Neighbour,153462, Node Swap,128725,24737.2,16.1194
+pr76.tsp,Cheapest Insertion,125936, 2-opt,119413,6523.59,5.18007
+pr76.tsp,Cheapest Insertion,125936, Node Shift,117799,8137.55,6.46165
+pr76.tsp,Cheapest Insertion,125936, Node Swap,122469,3467.08,2.75304
+pr76.tsp,Farthest Insertion,119693, 2-opt,112655,7038.38,5.88036
+pr76.tsp,Farthest Insertion,119693, Node Shift,113065,6627.82,5.53735
+pr76.tsp,Farthest Insertion,119693, Node Swap,118988,705.302,0.58926
+pr76.tsp,Random Insertion,118606, 2-opt,117857,749.02,0.631519
+pr76.tsp,Random Insertion,118606, Node Shift,114659,3947.25,3.32803
+pr76.tsp,Random Insertion,118606, Node Swap,118114,492.037,0.41485
+rat195.tsp,Nearest Neighbour,2761.96, 2-opt,2424.04,337.917,12.2347
+rat195.tsp,Nearest Neighbour,2761.96, Node Shift,2513.93,248.026,8.98008
+rat195.tsp,Nearest Neighbour,2761.96, Node Swap,2725.18,36.7755,1.3315
+rat195.tsp,Cheapest Insertion,2814.57, 2-opt,2605.55,209.019,7.42631
+rat195.tsp,Cheapest Insertion,2814.57, Node Shift,2507.72,306.849,10.9022
+rat195.tsp,Cheapest Insertion,2814.57, Node Swap,2760.49,54.0846,1.92159
+rat195.tsp,Farthest Insertion,2599.67, 2-opt,2572.78,26.8947,1.03454
+rat195.tsp,Farthest Insertion,2599.67, Node Shift,2532.75,66.9228,2.57428
+rat195.tsp,Farthest Insertion,2599.67, Node Swap,2594.02,5.65685,0.217598
+rat195.tsp,Random Insertion,2646.66, 2-opt,2591.51,55.1578,2.08405
+rat195.tsp,Random Insertion,2646.66, Node Shift,2506.99,139.677,5.27747
+rat195.tsp,Random Insertion,2646.66, Node Swap,2646.66,0,0
+rat99.tsp,Nearest Neighbour,1564.72, 2-opt,1300.1,264.63,16.9122
+rat99.tsp,Nearest Neighbour,1564.72, Node Shift,1389.05,175.676,11.2273
+rat99.tsp,Nearest Neighbour,1564.72, Node Swap,1419.01,145.719,9.31274
+rat99.tsp,Cheapest Insertion,1482.02, 2-opt,1359.76,122.26,8.24957
+rat99.tsp,Cheapest Insertion,1482.02, Node Shift,1293,189.025,12.7545
+rat99.tsp,Cheapest Insertion,1482.02, Node Swap,1473.1,8.92351,0.602118
+rat99.tsp,Farthest Insertion,1318.7, 2-opt,1299.07,19.6332,1.48883
+rat99.tsp,Farthest Insertion,1318.7, Node Shift,1278.95,39.7476,3.01415
+rat99.tsp,Farthest Insertion,1318.7, Node Swap,1309.44,9.26175,0.70234
+rat99.tsp,Random Insertion,1369.91, 2-opt,1310.71,59.2035,4.3217
+rat99.tsp,Random Insertion,1369.91, Node Shift,1281.8,88.1164,6.43227
+rat99.tsp,Random Insertion,1369.91, Node Swap,1363.45,6.46075,0.471618
+st70.tsp,Nearest Neighbour,805.531, 2-opt,711.348,94.1834,11.6921
+st70.tsp,Nearest Neighbour,805.531, Node Shift,750.851,54.6801,6.78808
+st70.tsp,Nearest Neighbour,805.531, Node Swap,781.442,24.0889,2.99044
+st70.tsp,Cheapest Insertion,741.724, 2-opt,718.892,22.8315,3.07817
+st70.tsp,Cheapest Insertion,741.724, Node Shift,704.483,37.2411,5.02089
+st70.tsp,Cheapest Insertion,741.724, Node Swap,735.784,5.93962,0.800786
+st70.tsp,Farthest Insertion,725.186, 2-opt,725.186,0,0
+st70.tsp,Farthest Insertion,725.186, Node Shift,706.887,18.2997,2.52345
+st70.tsp,Farthest Insertion,725.186, Node Swap,725.186,0,0
+st70.tsp,Random Insertion,738.937, 2-opt,734.733,4.20392,0.568915
+st70.tsp,Random Insertion,738.937, Node Shift,713.144,25.7927,3.49052
+st70.tsp,Random Insertion,738.937, Node Swap,734.733,4.20392,0.568915

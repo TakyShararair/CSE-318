@@ -1,0 +1,1029 @@
+Summary for a280.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 3148.11
+    2-opt Improvement:
+      Improved Cost: 2803.26
+      Cost Reduction: 344.85 (10.95%)
+    Node Shift Improvement:
+      Improved Cost: 2887.07
+      Cost Reduction: 261.04 (8.29%)
+    Node Swap Improvement:
+      Improved Cost: 3107.11
+      Cost Reduction: 41.00 (1.30%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 3141.66
+    2-opt Improvement:
+      Improved Cost: 2888.25
+      Cost Reduction: 253.41 (8.07%)
+    Node Shift Improvement:
+      Improved Cost: 2804.87
+      Cost Reduction: 336.79 (10.72%)
+    Node Swap Improvement:
+      Improved Cost: 3128.79
+      Cost Reduction: 12.87 (0.41%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 2957.49
+    2-opt Improvement:
+      Improved Cost: 2858.27
+      Cost Reduction: 99.22 (3.35%)
+    Node Shift Improvement:
+      Improved Cost: 2860.50
+      Cost Reduction: 96.99 (3.28%)
+    Node Swap Improvement:
+      Improved Cost: 2928.41
+      Cost Reduction: 29.08 (0.98%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 3067.87
+    2-opt Improvement:
+      Improved Cost: 2993.15
+      Cost Reduction: 74.72 (2.44%)
+    Node Shift Improvement:
+      Improved Cost: 2917.56
+      Cost Reduction: 150.31 (4.90%)
+    Node Swap Improvement:
+      Improved Cost: 3053.30
+      Cost Reduction: 14.57 (0.47%)
+
+Summary for berlin52.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 8980.92
+    2-opt Improvement:
+      Improved Cost: 7969.14
+      Cost Reduction: 1011.78 (11.27%)
+    Node Shift Improvement:
+      Improved Cost: 8221.69
+      Cost Reduction: 759.23 (8.45%)
+    Node Swap Improvement:
+      Improved Cost: 8850.83
+      Cost Reduction: 130.09 (1.45%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 9050.69
+    2-opt Improvement:
+      Improved Cost: 8659.73
+      Cost Reduction: 390.96 (4.32%)
+    Node Shift Improvement:
+      Improved Cost: 8457.50
+      Cost Reduction: 593.19 (6.55%)
+    Node Swap Improvement:
+      Improved Cost: 9000.60
+      Cost Reduction: 50.09 (0.55%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 8308.60
+    2-opt Improvement:
+      Improved Cost: 8196.16
+      Cost Reduction: 112.44 (1.35%)
+    Node Shift Improvement:
+      Improved Cost: 8055.65
+      Cost Reduction: 252.95 (3.04%)
+    Node Swap Improvement:
+      Improved Cost: 8308.60
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 8277.98
+    2-opt Improvement:
+      Improved Cost: 8270.48
+      Cost Reduction: 7.50 (0.09%)
+    Node Shift Improvement:
+      Improved Cost: 8231.21
+      Cost Reduction: 46.77 (0.56%)
+    Node Swap Improvement:
+      Improved Cost: 8277.98
+      Cost Reduction: 0.00 (0.00%)
+
+Summary for bier127.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 135752.00
+    2-opt Improvement:
+      Improved Cost: 122112.00
+      Cost Reduction: 13640.00 (10.05%)
+    Node Shift Improvement:
+      Improved Cost: 123860.00
+      Cost Reduction: 11892.00 (8.76%)
+    Node Swap Improvement:
+      Improved Cost: 129668.00
+      Cost Reduction: 6084.00 (4.48%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 139192.00
+    2-opt Improvement:
+      Improved Cost: 136615.00
+      Cost Reduction: 2577.00 (1.85%)
+    Node Shift Improvement:
+      Improved Cost: 133177.00
+      Cost Reduction: 6015.00 (4.32%)
+    Node Swap Improvement:
+      Improved Cost: 138406.00
+      Cost Reduction: 786.00 (0.56%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 129734.00
+    2-opt Improvement:
+      Improved Cost: 128971.00
+      Cost Reduction: 763.00 (0.59%)
+    Node Shift Improvement:
+      Improved Cost: 127613.00
+      Cost Reduction: 2121.00 (1.63%)
+    Node Swap Improvement:
+      Improved Cost: 129734.00
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 136487.00
+    2-opt Improvement:
+      Improved Cost: 129622.00
+      Cost Reduction: 6865.00 (5.03%)
+    Node Shift Improvement:
+      Improved Cost: 130118.00
+      Cost Reduction: 6369.00 (4.67%)
+    Node Swap Improvement:
+      Improved Cost: 134005.00
+      Cost Reduction: 2482.00 (1.82%)
+
+Summary for ch130.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 7575.29
+    2-opt Improvement:
+      Improved Cost: 6676.93
+      Cost Reduction: 898.36 (11.86%)
+    Node Shift Improvement:
+      Improved Cost: 6886.21
+      Cost Reduction: 689.08 (9.10%)
+    Node Swap Improvement:
+      Improved Cost: 7482.09
+      Cost Reduction: 93.20 (1.23%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 7279.21
+    2-opt Improvement:
+      Improved Cost: 6800.27
+      Cost Reduction: 478.94 (6.58%)
+    Node Shift Improvement:
+      Improved Cost: 6566.78
+      Cost Reduction: 712.43 (9.79%)
+    Node Swap Improvement:
+      Improved Cost: 7041.34
+      Cost Reduction: 237.87 (3.27%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 6493.75
+    2-opt Improvement:
+      Improved Cost: 6485.60
+      Cost Reduction: 8.15 (0.13%)
+    Node Shift Improvement:
+      Improved Cost: 6447.78
+      Cost Reduction: 45.97 (0.71%)
+    Node Swap Improvement:
+      Improved Cost: 6490.04
+      Cost Reduction: 3.71 (0.06%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 6957.23
+    2-opt Improvement:
+      Improved Cost: 6499.55
+      Cost Reduction: 457.68 (6.58%)
+    Node Shift Improvement:
+      Improved Cost: 6615.48
+      Cost Reduction: 341.75 (4.91%)
+    Node Swap Improvement:
+      Improved Cost: 6937.22
+      Cost Reduction: 20.01 (0.29%)
+
+Summary for ch150.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 8194.61
+    2-opt Improvement:
+      Improved Cost: 6837.25
+      Cost Reduction: 1357.36 (16.56%)
+    Node Shift Improvement:
+      Improved Cost: 7330.64
+      Cost Reduction: 863.97 (10.54%)
+    Node Swap Improvement:
+      Improved Cost: 8105.85
+      Cost Reduction: 88.76 (1.08%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 7792.73
+    2-opt Improvement:
+      Improved Cost: 7053.05
+      Cost Reduction: 739.68 (9.49%)
+    Node Shift Improvement:
+      Improved Cost: 6823.27
+      Cost Reduction: 969.46 (12.44%)
+    Node Swap Improvement:
+      Improved Cost: 7647.54
+      Cost Reduction: 145.19 (1.86%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 7212.42
+    2-opt Improvement:
+      Improved Cost: 7150.48
+      Cost Reduction: 61.94 (0.86%)
+    Node Shift Improvement:
+      Improved Cost: 6941.94
+      Cost Reduction: 270.48 (3.75%)
+    Node Swap Improvement:
+      Improved Cost: 7208.31
+      Cost Reduction: 4.11 (0.06%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 7110.16
+    2-opt Improvement:
+      Improved Cost: 6958.94
+      Cost Reduction: 151.22 (2.13%)
+    Node Shift Improvement:
+      Improved Cost: 6920.03
+      Cost Reduction: 190.13 (2.67%)
+    Node Swap Improvement:
+      Improved Cost: 7095.61
+      Cost Reduction: 14.55 (0.20%)
+
+Summary for eil101.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 825.24
+    2-opt Improvement:
+      Improved Cost: 671.40
+      Cost Reduction: 153.84 (18.64%)
+    Node Shift Improvement:
+      Improved Cost: 679.62
+      Cost Reduction: 145.62 (17.65%)
+    Node Swap Improvement:
+      Improved Cost: 787.16
+      Cost Reduction: 38.08 (4.61%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 709.47
+    2-opt Improvement:
+      Improved Cost: 693.38
+      Cost Reduction: 16.09 (2.27%)
+    Node Shift Improvement:
+      Improved Cost: 679.24
+      Cost Reduction: 30.23 (4.26%)
+    Node Swap Improvement:
+      Improved Cost: 709.47
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 686.74
+    2-opt Improvement:
+      Improved Cost: 684.13
+      Cost Reduction: 2.60 (0.38%)
+    Node Shift Improvement:
+      Improved Cost: 671.75
+      Cost Reduction: 14.98 (2.18%)
+    Node Swap Improvement:
+      Improved Cost: 686.74
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 681.50
+    2-opt Improvement:
+      Improved Cost: 681.01
+      Cost Reduction: 0.49 (0.07%)
+    Node Shift Improvement:
+      Improved Cost: 668.59
+      Cost Reduction: 12.91 (1.90%)
+    Node Swap Improvement:
+      Improved Cost: 681.50
+      Cost Reduction: 0.00 (0.00%)
+
+Summary for eil51.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 513.61
+    2-opt Improvement:
+      Improved Cost: 442.30
+      Cost Reduction: 71.31 (13.88%)
+    Node Shift Improvement:
+      Improved Cost: 466.28
+      Cost Reduction: 47.33 (9.22%)
+    Node Swap Improvement:
+      Improved Cost: 488.00
+      Cost Reduction: 25.61 (4.99%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 481.61
+    2-opt Improvement:
+      Improved Cost: 472.98
+      Cost Reduction: 8.62 (1.79%)
+    Node Shift Improvement:
+      Improved Cost: 442.59
+      Cost Reduction: 39.02 (8.10%)
+    Node Swap Improvement:
+      Improved Cost: 475.10
+      Cost Reduction: 6.51 (1.35%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 470.29
+    2-opt Improvement:
+      Improved Cost: 458.31
+      Cost Reduction: 11.98 (2.55%)
+    Node Shift Improvement:
+      Improved Cost: 446.25
+      Cost Reduction: 24.04 (5.11%)
+    Node Swap Improvement:
+      Improved Cost: 458.31
+      Cost Reduction: 11.98 (2.55%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 454.10
+    2-opt Improvement:
+      Improved Cost: 454.10
+      Cost Reduction: 0.00 (0.00%)
+    Node Shift Improvement:
+      Improved Cost: 448.41
+      Cost Reduction: 5.69 (1.25%)
+    Node Swap Improvement:
+      Improved Cost: 454.10
+      Cost Reduction: 0.00 (0.00%)
+
+Summary for eil76.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 711.99
+    2-opt Improvement:
+      Improved Cost: 576.27
+      Cost Reduction: 135.72 (19.06%)
+    Node Shift Improvement:
+      Improved Cost: 613.59
+      Cost Reduction: 98.40 (13.82%)
+    Node Swap Improvement:
+      Improved Cost: 638.28
+      Cost Reduction: 73.71 (10.35%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 618.46
+    2-opt Improvement:
+      Improved Cost: 588.83
+      Cost Reduction: 29.63 (4.79%)
+    Node Shift Improvement:
+      Improved Cost: 570.62
+      Cost Reduction: 47.84 (7.73%)
+    Node Swap Improvement:
+      Improved Cost: 615.12
+      Cost Reduction: 3.35 (0.54%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 585.67
+    2-opt Improvement:
+      Improved Cost: 584.44
+      Cost Reduction: 1.23 (0.21%)
+    Node Shift Improvement:
+      Improved Cost: 573.12
+      Cost Reduction: 12.55 (2.14%)
+    Node Swap Improvement:
+      Improved Cost: 585.12
+      Cost Reduction: 0.55 (0.09%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 585.74
+    2-opt Improvement:
+      Improved Cost: 582.94
+      Cost Reduction: 2.80 (0.48%)
+    Node Shift Improvement:
+      Improved Cost: 577.18
+      Cost Reduction: 8.56 (1.46%)
+    Node Swap Improvement:
+      Improved Cost: 585.74
+      Cost Reduction: 0.00 (0.00%)
+
+Summary for kroA100.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 26856.40
+    2-opt Improvement:
+      Improved Cost: 22496.60
+      Cost Reduction: 4359.80 (16.23%)
+    Node Shift Improvement:
+      Improved Cost: 24761.10
+      Cost Reduction: 2095.30 (7.80%)
+    Node Swap Improvement:
+      Improved Cost: 24786.70
+      Cost Reduction: 2069.70 (7.71%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 25232.00
+    2-opt Improvement:
+      Improved Cost: 24219.30
+      Cost Reduction: 1012.70 (4.01%)
+    Node Shift Improvement:
+      Improved Cost: 23927.40
+      Cost Reduction: 1304.60 (5.17%)
+    Node Swap Improvement:
+      Improved Cost: 24790.50
+      Cost Reduction: 441.50 (1.75%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 23358.30
+    2-opt Improvement:
+      Improved Cost: 23026.70
+      Cost Reduction: 331.60 (1.42%)
+    Node Shift Improvement:
+      Improved Cost: 22595.30
+      Cost Reduction: 763.00 (3.27%)
+    Node Swap Improvement:
+      Improved Cost: 23358.30
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 22587.70
+    2-opt Improvement:
+      Improved Cost: 22138.10
+      Cost Reduction: 449.60 (1.99%)
+    Node Shift Improvement:
+      Improved Cost: 22178.50
+      Cost Reduction: 409.20 (1.81%)
+    Node Swap Improvement:
+      Improved Cost: 22241.80
+      Cost Reduction: 345.90 (1.53%)
+
+Summary for kroB100.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 29155.00
+    2-opt Improvement:
+      Improved Cost: 22663.30
+      Cost Reduction: 6491.70 (22.27%)
+    Node Shift Improvement:
+      Improved Cost: 24863.40
+      Cost Reduction: 4291.60 (14.72%)
+    Node Swap Improvement:
+      Improved Cost: 28760.50
+      Cost Reduction: 394.50 (1.35%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 25259.90
+    2-opt Improvement:
+      Improved Cost: 23865.10
+      Cost Reduction: 1394.80 (5.52%)
+    Node Shift Improvement:
+      Improved Cost: 24085.40
+      Cost Reduction: 1174.50 (4.65%)
+    Node Swap Improvement:
+      Improved Cost: 25187.30
+      Cost Reduction: 72.60 (0.29%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 23222.10
+    2-opt Improvement:
+      Improved Cost: 23135.70
+      Cost Reduction: 86.40 (0.37%)
+    Node Shift Improvement:
+      Improved Cost: 22796.70
+      Cost Reduction: 425.40 (1.83%)
+    Node Swap Improvement:
+      Improved Cost: 23222.10
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 23759.50
+    2-opt Improvement:
+      Improved Cost: 23355.00
+      Cost Reduction: 404.50 (1.70%)
+    Node Shift Improvement:
+      Improved Cost: 23108.40
+      Cost Reduction: 651.10 (2.74%)
+    Node Swap Improvement:
+      Improved Cost: 23759.50
+      Cost Reduction: 0.00 (0.00%)
+
+Summary for kroC100.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 26327.40
+    2-opt Improvement:
+      Improved Cost: 22130.70
+      Cost Reduction: 4196.70 (15.94%)
+    Node Shift Improvement:
+      Improved Cost: 24059.50
+      Cost Reduction: 2267.90 (8.61%)
+    Node Swap Improvement:
+      Improved Cost: 26216.80
+      Cost Reduction: 110.60 (0.42%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 25545.90
+    2-opt Improvement:
+      Improved Cost: 24802.70
+      Cost Reduction: 743.20 (2.91%)
+    Node Shift Improvement:
+      Improved Cost: 23239.50
+      Cost Reduction: 2306.40 (9.03%)
+    Node Swap Improvement:
+      Improved Cost: 25542.10
+      Cost Reduction: 3.80 (0.01%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 21698.80
+    2-opt Improvement:
+      Improved Cost: 21510.20
+      Cost Reduction: 188.60 (0.87%)
+    Node Shift Improvement:
+      Improved Cost: 21440.80
+      Cost Reduction: 258.00 (1.19%)
+    Node Swap Improvement:
+      Improved Cost: 21698.80
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 22927.80
+    2-opt Improvement:
+      Improved Cost: 22413.40
+      Cost Reduction: 514.40 (2.24%)
+    Node Shift Improvement:
+      Improved Cost: 21862.80
+      Cost Reduction: 1065.00 (4.65%)
+    Node Swap Improvement:
+      Improved Cost: 22927.80
+      Cost Reduction: 0.00 (0.00%)
+
+Summary for kroD100.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 26950.50
+    2-opt Improvement:
+      Improved Cost: 22777.20
+      Cost Reduction: 4173.30 (15.49%)
+    Node Shift Improvement:
+      Improved Cost: 24306.30
+      Cost Reduction: 2644.20 (9.81%)
+    Node Swap Improvement:
+      Improved Cost: 26702.60
+      Cost Reduction: 247.90 (0.92%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 24949.70
+    2-opt Improvement:
+      Improved Cost: 23620.10
+      Cost Reduction: 1329.60 (5.33%)
+    Node Shift Improvement:
+      Improved Cost: 22964.20
+      Cost Reduction: 1985.50 (7.96%)
+    Node Swap Improvement:
+      Improved Cost: 24809.00
+      Cost Reduction: 140.70 (0.56%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 22036.20
+    2-opt Improvement:
+      Improved Cost: 21774.90
+      Cost Reduction: 261.30 (1.19%)
+    Node Shift Improvement:
+      Improved Cost: 21753.10
+      Cost Reduction: 283.10 (1.28%)
+    Node Swap Improvement:
+      Improved Cost: 21935.40
+      Cost Reduction: 100.80 (0.46%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 22661.50
+    2-opt Improvement:
+      Improved Cost: 21935.90
+      Cost Reduction: 725.60 (3.20%)
+    Node Shift Improvement:
+      Improved Cost: 21961.00
+      Cost Reduction: 700.50 (3.09%)
+    Node Swap Improvement:
+      Improved Cost: 22519.70
+      Cost Reduction: 141.80 (0.63%)
+
+Summary for kroE100.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 27587.20
+    2-opt Improvement:
+      Improved Cost: 23189.40
+      Cost Reduction: 4397.80 (15.94%)
+    Node Shift Improvement:
+      Improved Cost: 25774.10
+      Cost Reduction: 1813.10 (6.57%)
+    Node Swap Improvement:
+      Improved Cost: 26582.70
+      Cost Reduction: 1004.50 (3.64%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 25582.30
+    2-opt Improvement:
+      Improved Cost: 25008.40
+      Cost Reduction: 573.90 (2.24%)
+    Node Shift Improvement:
+      Improved Cost: 24034.30
+      Cost Reduction: 1548.00 (6.05%)
+    Node Swap Improvement:
+      Improved Cost: 25547.60
+      Cost Reduction: 34.70 (0.14%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 23517.00
+    2-opt Improvement:
+      Improved Cost: 22764.80
+      Cost Reduction: 752.20 (3.20%)
+    Node Shift Improvement:
+      Improved Cost: 22530.10
+      Cost Reduction: 986.90 (4.20%)
+    Node Swap Improvement:
+      Improved Cost: 23503.40
+      Cost Reduction: 13.60 (0.06%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 24154.70
+    2-opt Improvement:
+      Improved Cost: 23404.40
+      Cost Reduction: 750.30 (3.11%)
+    Node Shift Improvement:
+      Improved Cost: 22982.90
+      Cost Reduction: 1171.80 (4.85%)
+    Node Swap Improvement:
+      Improved Cost: 24144.40
+      Cost Reduction: 10.30 (0.04%)
+
+Summary for lin105.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 20362.80
+    2-opt Improvement:
+      Improved Cost: 15605.50
+      Cost Reduction: 4757.30 (23.36%)
+    Node Shift Improvement:
+      Improved Cost: 17471.00
+      Cost Reduction: 2891.80 (14.20%)
+    Node Swap Improvement:
+      Improved Cost: 20019.60
+      Cost Reduction: 343.20 (1.69%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 16934.60
+    2-opt Improvement:
+      Improved Cost: 16168.20
+      Cost Reduction: 766.40 (4.53%)
+    Node Shift Improvement:
+      Improved Cost: 15887.20
+      Cost Reduction: 1047.40 (6.18%)
+    Node Swap Improvement:
+      Improved Cost: 16866.70
+      Cost Reduction: 67.90 (0.40%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 15372.40
+    2-opt Improvement:
+      Improved Cost: 15272.40
+      Cost Reduction: 100.00 (0.65%)
+    Node Shift Improvement:
+      Improved Cost: 15157.20
+      Cost Reduction: 215.20 (1.40%)
+    Node Swap Improvement:
+      Improved Cost: 15372.40
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 15510.90
+    2-opt Improvement:
+      Improved Cost: 15419.90
+      Cost Reduction: 91.00 (0.59%)
+    Node Shift Improvement:
+      Improved Cost: 15353.20
+      Cost Reduction: 157.70 (1.02%)
+    Node Swap Improvement:
+      Improved Cost: 15510.90
+      Cost Reduction: 0.00 (0.00%)
+
+Summary for lin318.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 54033.60
+    2-opt Improvement:
+      Improved Cost: 44751.30
+      Cost Reduction: 9282.30 (17.18%)
+    Node Shift Improvement:
+      Improved Cost: 49372.10
+      Cost Reduction: 4661.50 (8.63%)
+    Node Swap Improvement:
+      Improved Cost: 53389.00
+      Cost Reduction: 644.60 (1.19%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 49454.80
+    2-opt Improvement:
+      Improved Cost: 45351.10
+      Cost Reduction: 4103.70 (8.30%)
+    Node Shift Improvement:
+      Improved Cost: 46127.10
+      Cost Reduction: 3327.70 (6.73%)
+    Node Swap Improvement:
+      Improved Cost: 49230.10
+      Cost Reduction: 224.70 (0.45%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 45929.90
+    2-opt Improvement:
+      Improved Cost: 45096.00
+      Cost Reduction: 833.90 (1.82%)
+    Node Shift Improvement:
+      Improved Cost: 44949.40
+      Cost Reduction: 980.50 (2.13%)
+    Node Swap Improvement:
+      Improved Cost: 45690.10
+      Cost Reduction: 239.80 (0.52%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 46772.60
+    2-opt Improvement:
+      Improved Cost: 46033.30
+      Cost Reduction: 739.30 (1.58%)
+    Node Shift Improvement:
+      Improved Cost: 46085.80
+      Cost Reduction: 686.80 (1.47%)
+    Node Swap Improvement:
+      Improved Cost: 46763.10
+      Cost Reduction: 9.50 (0.02%)
+
+Summary for pr124.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 69299.40
+    2-opt Improvement:
+      Improved Cost: 60304.00
+      Cost Reduction: 8995.40 (12.98%)
+    Node Shift Improvement:
+      Improved Cost: 64381.90
+      Cost Reduction: 4917.50 (7.10%)
+    Node Swap Improvement:
+      Improved Cost: 66872.50
+      Cost Reduction: 2426.90 (3.50%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 65318.20
+    2-opt Improvement:
+      Improved Cost: 62902.30
+      Cost Reduction: 2415.90 (3.70%)
+    Node Shift Improvement:
+      Improved Cost: 61832.60
+      Cost Reduction: 3485.60 (5.34%)
+    Node Swap Improvement:
+      Improved Cost: 64533.10
+      Cost Reduction: 785.10 (1.20%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 66592.90
+    2-opt Improvement:
+      Improved Cost: 65845.80
+      Cost Reduction: 747.10 (1.12%)
+    Node Shift Improvement:
+      Improved Cost: 65516.70
+      Cost Reduction: 1076.20 (1.62%)
+    Node Swap Improvement:
+      Improved Cost: 66445.80
+      Cost Reduction: 147.10 (0.22%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 65762.50
+    2-opt Improvement:
+      Improved Cost: 61661.50
+      Cost Reduction: 4101.00 (6.24%)
+    Node Shift Improvement:
+      Improved Cost: 64070.50
+      Cost Reduction: 1692.00 (2.57%)
+    Node Swap Improvement:
+      Improved Cost: 64995.90
+      Cost Reduction: 766.60 (1.17%)
+
+Summary for pr144.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 61650.70
+    2-opt Improvement:
+      Improved Cost: 61243.80
+      Cost Reduction: 406.90 (0.66%)
+    Node Shift Improvement:
+      Improved Cost: 61012.90
+      Cost Reduction: 637.80 (1.03%)
+    Node Swap Improvement:
+      Improved Cost: 61650.70
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 73033.10
+    2-opt Improvement:
+      Improved Cost: 60323.80
+      Cost Reduction: 12709.30 (17.40%)
+    Node Shift Improvement:
+      Improved Cost: 71787.80
+      Cost Reduction: 1245.30 (1.71%)
+    Node Swap Improvement:
+      Improved Cost: 72562.90
+      Cost Reduction: 470.20 (0.64%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 61972.30
+    2-opt Improvement:
+      Improved Cost: 61545.00
+      Cost Reduction: 427.30 (0.69%)
+    Node Shift Improvement:
+      Improved Cost: 61972.30
+      Cost Reduction: 0.00 (0.00%)
+    Node Swap Improvement:
+      Improved Cost: 61972.30
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 64174.50
+    2-opt Improvement:
+      Improved Cost: 60040.20
+      Cost Reduction: 4134.30 (6.44%)
+    Node Shift Improvement:
+      Improved Cost: 63664.10
+      Cost Reduction: 510.40 (0.80%)
+    Node Swap Improvement:
+      Improved Cost: 64174.50
+      Cost Reduction: 0.00 (0.00%)
+
+Summary for pr76.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 153462.00
+    2-opt Improvement:
+      Improved Cost: 110715.00
+      Cost Reduction: 42747.00 (27.86%)
+    Node Shift Improvement:
+      Improved Cost: 114890.00
+      Cost Reduction: 38572.00 (25.13%)
+    Node Swap Improvement:
+      Improved Cost: 128725.00
+      Cost Reduction: 24737.00 (16.12%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 125936.00
+    2-opt Improvement:
+      Improved Cost: 119413.00
+      Cost Reduction: 6523.00 (5.18%)
+    Node Shift Improvement:
+      Improved Cost: 117799.00
+      Cost Reduction: 8137.00 (6.46%)
+    Node Swap Improvement:
+      Improved Cost: 122469.00
+      Cost Reduction: 3467.00 (2.75%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 119693.00
+    2-opt Improvement:
+      Improved Cost: 112655.00
+      Cost Reduction: 7038.00 (5.88%)
+    Node Shift Improvement:
+      Improved Cost: 113065.00
+      Cost Reduction: 6628.00 (5.54%)
+    Node Swap Improvement:
+      Improved Cost: 118988.00
+      Cost Reduction: 705.00 (0.59%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 118606.00
+    2-opt Improvement:
+      Improved Cost: 117857.00
+      Cost Reduction: 749.00 (0.63%)
+    Node Shift Improvement:
+      Improved Cost: 114659.00
+      Cost Reduction: 3947.00 (3.33%)
+    Node Swap Improvement:
+      Improved Cost: 118114.00
+      Cost Reduction: 492.00 (0.41%)
+
+Summary for rat195.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 2761.96
+    2-opt Improvement:
+      Improved Cost: 2424.04
+      Cost Reduction: 337.92 (12.23%)
+    Node Shift Improvement:
+      Improved Cost: 2513.93
+      Cost Reduction: 248.03 (8.98%)
+    Node Swap Improvement:
+      Improved Cost: 2725.18
+      Cost Reduction: 36.78 (1.33%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 2814.57
+    2-opt Improvement:
+      Improved Cost: 2605.55
+      Cost Reduction: 209.02 (7.43%)
+    Node Shift Improvement:
+      Improved Cost: 2507.72
+      Cost Reduction: 306.85 (10.90%)
+    Node Swap Improvement:
+      Improved Cost: 2760.49
+      Cost Reduction: 54.08 (1.92%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 2599.67
+    2-opt Improvement:
+      Improved Cost: 2572.78
+      Cost Reduction: 26.89 (1.03%)
+    Node Shift Improvement:
+      Improved Cost: 2532.75
+      Cost Reduction: 66.92 (2.57%)
+    Node Swap Improvement:
+      Improved Cost: 2594.02
+      Cost Reduction: 5.65 (0.22%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 2646.66
+    2-opt Improvement:
+      Improved Cost: 2591.51
+      Cost Reduction: 55.15 (2.08%)
+    Node Shift Improvement:
+      Improved Cost: 2506.99
+      Cost Reduction: 139.67 (5.28%)
+    Node Swap Improvement:
+      Improved Cost: 2646.66
+      Cost Reduction: 0.00 (0.00%)
+
+Summary for rat99.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 1564.72
+    2-opt Improvement:
+      Improved Cost: 1300.10
+      Cost Reduction: 264.62 (16.91%)
+    Node Shift Improvement:
+      Improved Cost: 1389.05
+      Cost Reduction: 175.67 (11.23%)
+    Node Swap Improvement:
+      Improved Cost: 1419.01
+      Cost Reduction: 145.71 (9.31%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 1482.02
+    2-opt Improvement:
+      Improved Cost: 1359.76
+      Cost Reduction: 122.26 (8.25%)
+    Node Shift Improvement:
+      Improved Cost: 1293.00
+      Cost Reduction: 189.02 (12.75%)
+    Node Swap Improvement:
+      Improved Cost: 1473.10
+      Cost Reduction: 8.92 (0.60%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 1318.70
+    2-opt Improvement:
+      Improved Cost: 1299.07
+      Cost Reduction: 19.63 (1.49%)
+    Node Shift Improvement:
+      Improved Cost: 1278.95
+      Cost Reduction: 39.75 (3.01%)
+    Node Swap Improvement:
+      Improved Cost: 1309.44
+      Cost Reduction: 9.26 (0.70%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 1369.91
+    2-opt Improvement:
+      Improved Cost: 1310.71
+      Cost Reduction: 59.20 (4.32%)
+    Node Shift Improvement:
+      Improved Cost: 1281.80
+      Cost Reduction: 88.11 (6.43%)
+    Node Swap Improvement:
+      Improved Cost: 1363.45
+      Cost Reduction: 6.46 (0.47%)
+
+Summary for st70.tsp:
+  Constructive Method: Nearest Neighbour
+    Initial Cost: 805.53
+    2-opt Improvement:
+      Improved Cost: 711.35
+      Cost Reduction: 94.18 (11.69%)
+    Node Shift Improvement:
+      Improved Cost: 750.85
+      Cost Reduction: 54.68 (6.79%)
+    Node Swap Improvement:
+      Improved Cost: 781.44
+      Cost Reduction: 24.09 (2.99%)
+
+  Constructive Method: Cheapest Insertion
+    Initial Cost: 741.72
+    2-opt Improvement:
+      Improved Cost: 718.89
+      Cost Reduction: 22.83 (3.08%)
+    Node Shift Improvement:
+      Improved Cost: 704.48
+      Cost Reduction: 37.24 (5.02%)
+    Node Swap Improvement:
+      Improved Cost: 735.78
+      Cost Reduction: 5.94 (0.80%)
+
+  Constructive Method: Farthest Insertion
+    Initial Cost: 725.19
+    2-opt Improvement:
+      Improved Cost: 725.19
+      Cost Reduction: 0.00 (0.00%)
+    Node Shift Improvement:
+      Improved Cost: 706.89
+      Cost Reduction: 18.30 (2.52%)
+    Node Swap Improvement:
+      Improved Cost: 725.19
+      Cost Reduction: 0.00 (0.00%)
+
+  Constructive Method: Random Insertion
+    Initial Cost: 738.94
+    2-opt Improvement:
+      Improved Cost: 734.73
+      Cost Reduction: 4.20 (0.57%)
+    Node Shift Improvement:
+      Improved Cost: 713.14
+      Cost Reduction: 25.79 (3.49%)
+    Node Swap Improvement:
+      Improved Cost: 734.73
+      Cost Reduction: 4.20 (0.57%)
+
